@@ -1,0 +1,3 @@
+[submodule "CMAD"]
+	path = CMAD
+	url = git@github.com:fvalle1/CMAD.git
