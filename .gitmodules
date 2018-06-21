@@ -1,9 +1,6 @@
 [submodule "CMAD"]
 	path = CMAD
 	url = git@github.com:fvalle1/CMAD.git
-[submodule "16475833mcsjqwvxwhgx"]
-	path = 16475833mcsjqwvxwhgx
-	url = https://git.overleaf.com/16475833mcsjqwvxwhgx
 [submodule "16978857qtmvmbdffkpd"]
 	path = 16978857qtmvmbdffkpd
 	url = https://git.overleaf.com/16978857qtmvmbdffkpd
